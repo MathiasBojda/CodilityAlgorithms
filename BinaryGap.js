@@ -1,4 +1,4 @@
-
+// 100% correctness
 
 function solution(N) {
 
